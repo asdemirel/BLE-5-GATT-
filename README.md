@@ -1,1 +1,1 @@
-# BLE-5-GATT-
+ # Bluetooth GATT SDK for Python
